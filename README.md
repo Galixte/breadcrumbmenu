@@ -2,11 +2,11 @@
 
 This extension adds a drop-down menu to each breadcrumb, containing the sibling and child fora.
 
-[![Build Status](https://travis-ci.com/david63/breadcrumbmenu.svg?branch=master)](https://travis-ci.com/david63/breadcrumbmenu)
-[![License](https://poser.pugx.org/david63/breadcrumbmenu/license)](https://packagist.org/packages/david63/breadcrumbmenu)
-[![Latest Stable Version](https://poser.pugx.org/david63/breadcrumbmenu/v/stable)](https://packagist.org/packages/david63/breadcrumbmenu)
-[![Latest Unstable Version](https://poser.pugx.org/david63/breadcrumbmenu/v/unstable)](https://packagist.org/packages/david63/breadcrumbmenu)
-[![Total Downloads](https://poser.pugx.org/david63/breadcrumbmenu/downloads)](https://packagist.org/packages/david63/breadcrumbmenu)
+[![Build Status](https://travis-ci.com/paybas/breadcrumbmenu.svg?branch=master)](https://travis-ci.com/paybas/breadcrumbmenu)
+[![License](https://poser.pugx.org/paybas/breadcrumbmenu/license)](https://packagist.org/packages/paybas/breadcrumbmenu)
+[![Latest Stable Version](https://poser.pugx.org/paybas/breadcrumbmenu/v/stable)](https://packagist.org/packages/paybas/breadcrumbmenu)
+[![Latest Unstable Version](https://poser.pugx.org/paybas/breadcrumbmenu/v/unstable)](https://packagist.org/packages/paybas/breadcrumbmenu)
+[![Total Downloads](https://poser.pugx.org/paybas/breadcrumbmenu/downloads)](https://packagist.org/packages/paybas/breadcrumbmenu)
 
 ## Minimum Requirements
 * phpBB 3.2.0
