@@ -3,8 +3,8 @@
     "type": "phpbb-extension",
     "description": "This extension adds a drop-down menu to each breadcrumb, containing the sibling and child fora.",
     "homepage": "https://github.com/PayBas/BreadcrumbMenu",
-    "version": "1.0.7",
-    "time": "2017-05-28",
+    "version": "3.1.0",
+    "time": "2019-12-30",
     "license": "GPL-2.0-only",
     "authors": [{
     		"name": "PayBas",
@@ -16,19 +16,19 @@
 		}
     ],
     "require": {
-        "php": ">=5.3.3,<7.1",
-		"phpbb/phpbb": ">=3.1.10",
+        "php": ">=7.1",
+		"phpbb/phpbb": ">=3.3.0",
         "composer/installers": "~1.0"
     },
     "extra": {
         "display-name": "[*] Breadcrumb Menu",
         "soft-require": {
-            "phpbb/phpbb": ">=3.1.10"
+            "phpbb/phpbb": ">=3.3.0"
         },
         "version-check": {
-            "host": "www.phpbb.com",
-            "directory": "/customise/db/extension/breadcrumb_menu",
-            "filename": "version_check"
-        }
+        	"host": "version.phpbbdev.space",
+        	"directory": "/3.3",
+        	"filename": "/breadcrumb_menu_version_file.json"
+    	}
     }
 }
